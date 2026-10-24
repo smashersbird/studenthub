@@ -1,0 +1,22 @@
+@media (max-width: 550px) {
+  .app {
+    padding: 18px;
+  }
+
+  .stats {
+    grid-template-columns: 1fr;
+    gap: 12px;
+  }
+
+  .intro {
+    margin-top: 35px;
+  }
+
+  .panel {
+    padding: 17px;
+  }
+
+  .status {
+    font-size: 11px;
+  }
+}
